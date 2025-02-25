@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался с курсов по программированию от beonmax по Web-разработке.</p>
+<p align="left">Я начинающий Frontend разработчик из города Уфа! Мой путь в it начался с курсов по программированию от beonmax по Web-разработке. С каждым днем я все больше и больше погружался в этот увлекательный мир Web-разработок и сейчас у меня очень много интересных проектов.</p>
 
  
 
@@ -33,19 +33,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  
+   <img src="https://skillicons.dev/icons?i=js,html,css,py,cpp,sass,git,github,)](https://skillicons.dev"  />
   <img width="12" />
    
   
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  
+   
 </div>
 
-###
-
+##
  
